@@ -10,4 +10,5 @@ Python used to perform task.
 Task completed during Data Science & Analytics Internship @ The Sparks Foundation
 
 Links:  https://github.com/SoumyDubey/K-mean-Cluserting
-        
+
+LinkedIn: https://www.linkedin.com/posts/soumy-dubey_gripapril2021-gripapril21-grip2021-activity-6789770302776762368-e0zI
